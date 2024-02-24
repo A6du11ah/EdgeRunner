@@ -1,2 +1,2 @@
 # EdgeRunner
-A pixel platformer game developed for the Game Jam event of BUET CSE Fest 2023
+P5.js based Vertical Scrolling Pixel Platformer Game
